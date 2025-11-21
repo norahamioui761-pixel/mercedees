@@ -1,0 +1,271 @@
+#a{
+    width: 100%;
+ background-color: rgb(0, 0, 0);
+ color: white;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+text-decoration: none;
+}
+h5{
+    display: inline;
+    padding:350PX ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+#s{
+    
+    background-color: rgb(255, 255, 255);
+    height: 40px;
+    padding-left: 60px;
+    border: none;
+    font-size: 11px;
+    text-align: center;
+}
+.c{
+    color: black;
+    padding-left: 40px;
+}
+button{
+    background-color: white;
+    border: goldenrod 1px solid;
+    margin-left: 80px;
+}
+#z{
+    background-color: black;
+    display: block;
+    margin-top: -30px;
+    margin-left: 30px;
+    position: absolute;
+    z-index: 1;
+  
+ 
+}
+#q{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url(oldcar.jpg);
+    height: 400px;
+    padding-top: 260px;
+    padding-left: 140px;
+    }
+#t{
+    color:white ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: goldenrod;
+    margin-top: -70px;
+    padding-left: 100px;
+    border: white 1px solid;
+  
+   
+    }   
+input{
+    background-color: goldenrod;
+    border: white 1px solid;
+    
+}
+::placeholder{ color: white;}
+label{
+    padding-left: 20px;
+}
+h3{
+    color: rgb(18, 18, 80);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    text-align: center;
+    letter-spacing: 7px;
+}
+hr{
+    color: rgb(19, 19, 82);
+}
+#u{
+    color: rgb(18, 18, 58);
+    border: solid 1px rgb(18, 18, 58);
+    position: relative;
+    left:  390px;
+bottom:150px;
+width: 20%;
+
+}
+.i{
+    background-color: rgb(19, 19, 82);
+    color: white;
+    text-align: center;
+    border: none;
+}
+#p{
+    color: rgb(18, 18, 58);
+    border: solid 1px rgb(18, 18, 58);
+    position: relative;
+    left:  1040px;
+bottom:455px;
+width: 20%; 
+}
+#o{
+    position: relative;
+    left: 680px;
+    bottom: 300px;
+}
+#d{
+    position: relative;
+    left: 30px;
+}
+#w{ 
+position: relative;
+margin-top: 20px;
+margin-left: 30px;
+
+
+}
+#m{
+    position: relative;
+left:330px ;
+bottom: 204px;
+}
+#n{
+position: relative;
+left: 630px;
+bottom: 408px;
+}
+#f{
+    position: relative;
+    left: 930px;
+    bottom: 612px;
+}
+.aa{
+    color: rgb(19, 19, 82);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    text-align: center;
+    margin-right: 20px;
+  
+    
+}
+p{
+    color: rgb(19, 19, 82);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 240px;
+}
+#ii{
+    margin-top: -390px;
+    margin-bottom: 10px;
+}
+#oo{
+    color: white;
+}
+#zz{
+    margin-top: -620px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+#rr{
+    position: relative;
+left:330px ;
+bottom: 212px; 
+}
+#tt{
+    position: relative;
+    left: 635px;
+    bottom: 415px; 
+}
+#yy{
+    position: relative;
+    left: 930px;
+    bottom: 619px;
+}
+#border{
+    position: relative;
+   z-index: 1;
+    bottom: 619px; 
+    left: 140px;
+}
+#new{
+    position: relative;
+    left: 655px;
+    bottom: 890px; 
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 10px;
+    font-size: medium;
+    position: relative;
+   left: 200px;
+   bottom: 780px;
+    color: rgb(80, 75, 75);
+}
+#letter{
+    font-size: small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    bottom: 780px;
+    left: -40px;
+    color: rgb(78, 76, 76);
+    white-space: pre-wrap;
+}
+#h{
+    font-size: x-large;
+    padding-top: 50px;
+}
+#cc{
+    position: relative;
+    bottom: 800px;
+}
+.l{
+    color: rgb(80, 77, 77);
+ margin-left: 140px;
+ position: relative;
+ bottom: 790px;
+ font-size: x-small;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+}
+#ee{
+   
+    color: rgb(80, 77, 77);
+    font-size: xx-small;
+    white-space: pre-wrap;
+    margin-left: 50px;
+    position: relative;
+    bottom: 700px;
+}
+#line{
+    position: relative;
+    bottom: 680px;
+}
+#re{
+    border-radius: 40px;
+    border:  solid white 1px;
+    position: relative;
+    bottom:640px ;
+}
+#black{
+    background-color: rgb(27, 27, 27);
+    width: 100%;
+    position: relative;
+    bottom: 600px;
+}
+#copy{
+   
+  
+ color: white;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ font-size: x-small;
+
+}
+#design{
+   
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-small;
+ padding-left: 200px;
+}
+#web{
+    color: goldenrod;
+    font-size: x-small;
+}
